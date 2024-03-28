@@ -3,23 +3,23 @@
 #Installation
 
 ##NPM
-'''bash
+```bash
 npm install
-'''
+```
 
 ##YARN
-'''bash
+```bash
 yarn install
-'''
+```
 
 #Usage
 
 ##NPM
-'''bash
+```bash
 npm @tyronn95/simpleMaths
-'''
+```
 
 ##YARN
-'''bash
+```bash
 yarn @tyronn95/simpleMaths
-'''
+```

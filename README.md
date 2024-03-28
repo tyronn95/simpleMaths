@@ -1,25 +1,25 @@
-#@tyronn95/simpleMaths
+# @tyronn95/simpleMaths
 
-##Installation
+## Installation
 
-###NPM
+### NPM
 ```bash
 npm install
 ```
 
-###YARN
+### YARN
 ```bash
 yarn install
 ```
 
-##Usage
+## Usage
 
-###NPM
+### NPM
 ```bash
 npm @tyronn95/simpleMaths
 ```
 
-###YARN
+### YARN
 ```bash
 yarn @tyronn95/simpleMaths
 ```

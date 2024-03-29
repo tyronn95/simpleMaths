@@ -1,18 +1,18 @@
 # CONTRIBUTING
 
 ```
-Avant toutes choses, merci de vouloir contribuer au projet Open Transport !   
-C'est grâce à ce genre d'investissement que nous pourrons favoriser un covoiturage solidaire.
+First of all, thank you for wanting to contribute to the TyronCalculator project! It is thanks to this kind of investment that we will be able to promote a supportive calculation tool.
 ```
 
-Open Transport recherche des contributeurs pour tous types de tâches : améliorations, correction de bugs, nouvelles fonctionnalités.
+TyronCalculator is looking for contributors for all types of tasks: improvements, bug fixes, new features.
 
 ## Comment contriburer ?
 
 
-Pour commencer, nous recommendons de consulter la liste des [issues](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/issues)   
 
-- Chaque issue est catégorisée et nous demandons à ce qu'une première contribution soit obligatoire une issue de type "good first issue".  
+To begin, we recommend consulting the list of [issues](https://github.com/tyronn95/simpleMaths/issues).   
+
+<!-- - Chaque issue est catégorisée et nous demandons à ce qu'une première contribution soit obligatoire une issue de type "good first issue".  
 - Un contributeur doit forker le projet source puis pourra soumettre ces contributions via des pull requests.  
 - Les pulls requests seront ensuite revues et traitées. L'issue associée sera mise à jour en conséquence.  
-- Les commentaires doivent contenir le numéro de l'issue.
+- Les commentaires doivent contenir le numéro de l'issue.  -->

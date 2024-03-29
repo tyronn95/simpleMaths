@@ -10,27 +10,24 @@ You can input 2 integer and a operator and it will return the result of the oper
 ### Operation Available
 
 #### Addition
-```
+
     Addition two integer.
-```
+
 #### Subtraction
-```
+
     Subtract two integer.
-```
+
 #### Multiplication
-```
+
     Multiply two integer.
-```
+
 #### Division
-```
+
     Divise two integer except by 0.
-```
 
 ### How to use
 
-```
 You need to import it in your project.
-```
 
 ### How to Contribute
 

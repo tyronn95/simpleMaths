@@ -33,6 +33,5 @@ You need to import it in your project.
 ```
 
 ### How to Contribute
-```
+
     You can contribute to the projet but first please read the [Code of Conduct](https://github.com/tyronn95/simpleMaths/blob/main/CODE_OF_CONDUCT.md) and the [Contributing Document](https://github.com/tyronn95/simpleMaths/blob/main/CONTRIBUTING.md).
-```

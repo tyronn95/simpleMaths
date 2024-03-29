@@ -4,7 +4,8 @@ TyronCalculator is seeking contributors for all types of tasks: enhancements, bu
 
 ## How to Contribute?
 
-To get started, we recommend checking the list of [issues](https://github.com/tyronn95/simpleMaths/issues) to see which problems or features are currently in progress and where your contribution could be helpful.
+To get started, we recommend checking the [Code of Conduct](https://github.com/tyronn95/simpleMaths/blob/main/CODE_OF_CONDUCT.md) then the list of [issues](https://github.com/tyronn95/simpleMaths/issues) to see which problems or features are currently in progress and where your contribution could be helpful.
+
 
 ## Contribution to the Calculator Function
 

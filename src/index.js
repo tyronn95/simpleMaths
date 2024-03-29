@@ -33,10 +33,10 @@ function Subtraction(nb1, nb2) {
   return result;
 }
 
-function Add(a, b){
+function Addition(a, b){
   return a + b;
 }
 
-function Mul(n1, n2) {
+function Multiplication(n1, n2) {
   return n1 * n2;
 }
